@@ -47,7 +47,7 @@ const Login = () => {
       <section className="authPage">
         <div className="container">
           <div className="header">
-            <img src="/careerconnect-black.png" alt="logo" />
+            <img src="/hiresphere.jpeg" alt="logo" />
             <h3>Login to your account</h3>
           </div>
           <form>
